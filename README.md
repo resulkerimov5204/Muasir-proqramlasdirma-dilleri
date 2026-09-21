@@ -1,1 +1,0 @@
-# Muasir-proqramlasdirma-dilleri
