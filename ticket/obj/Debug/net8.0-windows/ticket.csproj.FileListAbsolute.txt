@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\bin\Debug\net8.0-windows\ticket.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\bin\Debug\net8.0-windows\ticket.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\bin\Debug\net8.0-windows\ticket.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\bin\Debug\net8.0-windows\ticket.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\bin\Debug\net8.0-windows\ticket.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\refint\ticket.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ticket.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\ticket\obj\Debug\net8.0-windows\ref\ticket.dll
