@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\bin\Debug\net8.0-windows\xirdala.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\bin\Debug\net8.0-windows\xirdala.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\bin\Debug\net8.0-windows\xirdala.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\bin\Debug\net8.0-windows\xirdala.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\bin\Debug\net8.0-windows\xirdala.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\refint\xirdala.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\xirdala.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\xirdala\obj\Debug\net8.0-windows\ref\xirdala.dll
