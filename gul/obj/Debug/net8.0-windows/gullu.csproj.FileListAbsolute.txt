@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\bin\Debug\net8.0-windows\gullu.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\bin\Debug\net8.0-windows\gullu.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\bin\Debug\net8.0-windows\gullu.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\bin\Debug\net8.0-windows\gullu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\bin\Debug\net8.0-windows\gullu.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\refint\gullu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\gullu.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\gullu\obj\Debug\net8.0-windows\ref\gullu.dll
