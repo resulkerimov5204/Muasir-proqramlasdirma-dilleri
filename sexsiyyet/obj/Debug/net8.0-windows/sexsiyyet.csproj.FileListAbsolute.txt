@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\bin\Debug\net8.0-windows\sexsiyyet.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\bin\Debug\net8.0-windows\sexsiyyet.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\bin\Debug\net8.0-windows\sexsiyyet.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\bin\Debug\net8.0-windows\sexsiyyet.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\bin\Debug\net8.0-windows\sexsiyyet.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\refint\sexsiyyet.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\sexsiyyet.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sexsiyyet\obj\Debug\net8.0-windows\ref\sexsiyyet.dll
