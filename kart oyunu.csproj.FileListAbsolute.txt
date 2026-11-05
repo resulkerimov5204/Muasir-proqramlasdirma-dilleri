@@ -1,0 +1,17 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\bin\Debug\net8.0-windows\kart oyunu.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\bin\Debug\net8.0-windows\kart oyunu.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\bin\Debug\net8.0-windows\kart oyunu.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\bin\Debug\net8.0-windows\kart oyunu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\bin\Debug\net8.0-windows\kart oyunu.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart_oyunu.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart_oyunu.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\refint\kart oyunu.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\kart oyunu.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\kart oyunu\obj\Debug\net8.0-windows\ref\kart oyunu.dll
