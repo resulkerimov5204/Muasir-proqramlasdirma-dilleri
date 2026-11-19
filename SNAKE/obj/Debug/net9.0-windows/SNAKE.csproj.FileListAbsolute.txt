@@ -1,0 +1,20 @@
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\bin\Debug\net9.0-windows\sanke tıssss.exe
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\bin\Debug\net9.0-windows\sanke tıssss.deps.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\bin\Debug\net9.0-windows\sanke tıssss.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\bin\Debug\net9.0-windows\sanke tıssss.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\bin\Debug\net9.0-windows\sanke tıssss.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke_tıssss.Form1.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke_tıssss.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\refint\sanke tıssss.dll
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.pdb
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Dokumente\müasir proqramlaşdırma\sanke tıssss\obj\Debug\net9.0-windows\ref\sanke tıssss.dll
+C:\Users\kerim\Downloads\muasir-programlasdirma-main (9)\muasir-programlasdirma-main\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.dll
+C:\Users\kerim\Downloads\muasir-programlasdirma-main (9)\muasir-programlasdirma-main\sanke tıssss\obj\Debug\net9.0-windows\refint\sanke tıssss.dll
+C:\Users\kerim\Downloads\muasir-programlasdirma-main (9)\muasir-programlasdirma-main\sanke tıssss\obj\Debug\net9.0-windows\sanke tıssss.pdb
