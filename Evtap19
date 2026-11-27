@@ -1,0 +1,130 @@
+using Microsoft.Web.WebView2.WinForms;
+
+namespace WinFormsApp25
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        WebView2 Aktiv()
+        {
+            return (WebView2)tabControl1.SelectedTab!.Controls[0];
+        }
+
+        async void YeniTab(string url)
+        {
+            TabPage tp = new TabPage("Yeni tab");
+            WebView2 wv = new WebView2();
+            wv.Dock = DockStyle.Fill;
+            tp.Controls.Add(wv);
+
+            tabControl1.TabPages.Add(tp);
+
+            await wv.EnsureCoreWebView2Async();
+            Hazirla(wv);
+            wv.CoreWebView2.Navigate(url);
+
+            tabControl1.SelectedTab = tp;
+        }
+
+        void Hazirla(WebView2 wv)
+        {
+            wv.CoreWebView2.NewWindowRequested += (s, e) =>
+            {
+                e.Handled = true;
+                YeniTab(e.Uri);
+            };
+
+            wv.CoreWebView2.DocumentTitleChanged += (s, e) =>
+            {
+                string ad = wv.CoreWebView2.DocumentTitle;
+                if (wv.Parent is TabPage tp)
+                    tp.Text = ad.Length > 15 ? ad.Substring(0, 15) : ad;
+            };
+
+            wv.SourceChanged += (s, e) =>
+            {
+                string adres = wv.Source.ToString();
+
+                if (wv == Aktiv())
+                    textBox1.Text = adres;
+
+                listBox2.Items.Add(adres);
+            };
+        }
+
+        private async void Form1_Load(object sender, EventArgs e)
+        {
+            await webView21.EnsureCoreWebView2Async();
+            Hazirla(webView21);
+            webView21.CoreWebView2.Navigate("https://www.google.com");
+
+            listBox1.Items.Add("https://www.google.com");
+            listBox1.Items.Add("https://www.wikipedia.org");
+            listBox1.Items.Add("https://www.youtube.com");
+            listBox1.Items.Add("https://www.azertag.az");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Aktiv().GoBack();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Aktiv().GoForward();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Aktiv().Reload();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Aktiv().CoreWebView2.Navigate("https://www.google.com");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Aktiv().CoreWebView2.Navigate(textBox1.Text);
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                button5_Click(sender, e);
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            YeniTab("https://www.google.com");
+        }
+
+        private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (Aktiv().Source != null)
+                textBox1.Text = Aktiv().Source.ToString();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(textBox1.Text);
+        }
+
+        private void listBox1_DoubleClick(object sender, EventArgs e)
+        {
+            Aktiv().CoreWebView2.Navigate(listBox1.SelectedItem!.ToString()!);
+        }
+
+        private void listBox2_DoubleClick(object sender, EventArgs e)
+        {
+            Aktiv().CoreWebView2.Navigate(listBox2.SelectedItem!.ToString()!);
+        }
+    }
+}
